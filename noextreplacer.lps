@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="noextreplacer.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="noextreplacer"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="4"/>
+        <CursorPos X="43" Y="18"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ufrmMain"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="213"/>
+        <CursorPos X="25" Y="228"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="forms\ufrmAbout.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <UnitName Value="ufrmAbout"/>
+        <UsageCount Value="20"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="resources\language.inc"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="20"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="resources\ResStrs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ResStrs"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="118"/>
+        <CursorPos X="66" Y="126"/>
+        <UsageCount Value="20"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="20"/>
+      </Unit5>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="204" Column="1" TopLine="196"/>
+      </Position1>
+      <Position2>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="208" Column="1" TopLine="196"/>
+      </Position2>
+      <Position3>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="212" Column="1" TopLine="197"/>
+      </Position3>
+      <Position4>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="214" Column="1" TopLine="199"/>
+      </Position4>
+      <Position5>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="222" Column="1" TopLine="213"/>
+      </Position5>
+      <Position6>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="223" Column="1" TopLine="213"/>
+      </Position6>
+      <Position7>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="225" Column="1" TopLine="213"/>
+      </Position7>
+      <Position8>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="226" Column="1" TopLine="213"/>
+      </Position8>
+      <Position9>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="228" Column="1" TopLine="213"/>
+      </Position9>
+      <Position10>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="229" Column="1" TopLine="214"/>
+      </Position10>
+      <Position11>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="233" Column="1" TopLine="224"/>
+      </Position11>
+      <Position12>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="200" Column="1" TopLine="191"/>
+      </Position12>
+      <Position13>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="204" Column="1" TopLine="191"/>
+      </Position13>
+      <Position14>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="208" Column="1" TopLine="193"/>
+      </Position14>
+      <Position15>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="210" Column="1" TopLine="195"/>
+      </Position15>
+      <Position16>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="222" Column="1" TopLine="213"/>
+      </Position16>
+      <Position17>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="200" Column="23" TopLine="191"/>
+      </Position17>
+      <Position18>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position18>
+      <Position19>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="203" Column="43" TopLine="197"/>
+      </Position19>
+      <Position20>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="14" Column="1" TopLine="7"/>
+      </Position20>
+      <Position21>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="161" Column="38" TopLine="154"/>
+      </Position21>
+      <Position22>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position22>
+      <Position23>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="149" Column="42" TopLine="141"/>
+      </Position23>
+      <Position24>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position24>
+      <Position25>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="105" Column="13" TopLine="223"/>
+      </Position25>
+      <Position26>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="90" Column="18" TopLine="81"/>
+      </Position26>
+      <Position27>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position27>
+      <Position28>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="90" Column="18" TopLine="75"/>
+      </Position28>
+      <Position29>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="228" Column="25" TopLine="219"/>
+      </Position29>
+      <Position30>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
